@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "c_arze@hotmail.com",
+    "enableMultiJS": true,
+    "longName": "Mi Primer programa Pebble",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Mi Primer programa Pebble",
+    "uuid": "433568d9-20cb-40e9-9256-c50698acb055",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
